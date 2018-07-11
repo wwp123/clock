@@ -3,10 +3,10 @@ title: css画时钟
 ---
 
 
-![enter description here][1]
+![预览图][1]
 
 
-  [1]: ./images/1531300247278.jpg "预览图.jpg"
+  [1]: clock.jpg "预览图.jpg"
   
   ### 一、html部分
   主要写了中心点、指针、刻度和品牌四个部分。代码在index.html中。

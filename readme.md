@@ -1,12 +1,9 @@
----
-title: css画时钟 
----
-
-
 ![预览图][1]
 
 
   [1]: clock.jpg "预览图.jpg"
+  
+  预览地址：https://wwp123.github.io/clock/
   
   ### 一、html部分
   主要写了中心点、指针、刻度和品牌四个部分。代码在index.html中。

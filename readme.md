@@ -3,7 +3,7 @@
 
   [1]: clock.jpg "预览图.jpg"
   
-  <a href="https://wwp123.github.io/clock/" target="_blank">预览地址</a>
+  <a href="https://wwp123.github.io/clock/" target="_blank">戳我可以进行预览哦~</a>
   
   ### 一、html部分
   主要写了中心点、指针、刻度和品牌四个部分。代码在index.html中。
